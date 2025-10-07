@@ -17,25 +17,40 @@ Early prediction helps in preventive care and timely medical intervention.
 
 🛠️ Technologies Used
 1.Programming Language: Python
+
 2.Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
+
 3.Ontology Tools: OWL / RDF (if applicable)
+
 4.Dataset: Pima Indians Diabetes Database
 
 🚀 How to Run the Project 
+
 git clone https://github.com/patri-chaitanya/Diabetes-Prediction-Using-Machine-Learning-Algorithms-and-Ontology.git
+
 cd "C:\Users\PATRI CHAITANYA\AppData\Local\Programs\Python\Python310\Batch -12"
+
 pip install -r requirements.txt
+
 pip install streamlit
+
 streamlit run app.py
 
 
 📊 Machine Learning Models Used
+
 1.Logistic Regression (LR)
+
 2.Decision Tree Classifier (DT)
+
 3.Support Vector Machine (SVM)
+
 4.K-Nearest Neighbours (KNN)
+
 5.Gaussian Naive Bayes (GNB)
+
 6.Artificial Neural Network (ANN)
+
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score
 
 ## 📈 Sample Outputs
@@ -97,12 +112,18 @@ Batch -12/
 └── README.md
 
 ## 📚 References
+
 1.Pima Indians Diabetes Database – Kaggle
+
 2.Scikit-learn Documentation
+
 3.Ontology-based Knowledge Representation Papers
 
 ✨ Author
+
 Patri Chaitanya Sri Lalitha Sai
+
 GitHub: patri-chaitanya
+
 Email: 209439059+patri-chaitanya@users.noreply.github.com
 
