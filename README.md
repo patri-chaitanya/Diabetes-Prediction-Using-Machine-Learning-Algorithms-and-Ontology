@@ -1,4 +1,4 @@
-#🩺 Diabetes Prediction Using Machine Learning Algorithms and Ontology
+#🩺 Diabetes Prediction Using Machine Learning Algorithms and Ontology 
 
 📝 Project Overview
 
