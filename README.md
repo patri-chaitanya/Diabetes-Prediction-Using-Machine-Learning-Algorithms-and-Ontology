@@ -16,6 +16,7 @@ Early prediction helps in preventive care and timely medical intervention.
 4.Interactive Streamlit web interface for real-time predictions.
 
 🛠️ Technologies Used
+
 1.Programming Language: Python
 
 2.Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
@@ -123,7 +124,7 @@ Batch -12/
 
 Patri Chaitanya Sri Lalitha Sai
 
-GitHub: patri-chaitanya
+GitHub: https://github.com/patri-chaitanya
 
 Email: 209439059+patri-chaitanya@users.noreply.github.com
 
